@@ -3,6 +3,31 @@
 <p>
 CSV-Manager is used to work with external data, as in 'csv' files and view or show the data present in it.
 </p>
+<h3>Prerequisites</h3>
+<h2>Backend</h2>
+<ul>
+  <li>Node.js </li>
+  <li> Express</li>
+  <li>MongoDB </li>
+  
+ </ul>
+ <h2>Frontend</h2>
+ <li>HTML </li>
+ <li>CSS </li>
+ <li>Javascript </li>
+ <li>EJS </li>
+ <h2>Install Dependencies</h2>
+ <ul>
+  <li>npm install express</li>
+  <li>npm install mongoose</li>
+  <li>npm install ejs</li>
+  <li>npm install csv-parser</li>
+  <li>npm install multer</li>
+  <li>npm install express-ejs-layouts</li>
+  </ul>
+  
+  <h3>Start the  App</h3>
+  <p>node index.js</p>
 
 <p>API Endpoints</p>
 <ul>
