@@ -29,7 +29,7 @@ CSV-Manager is used to work with external data, as in 'csv' files and view or sh
   <h3>Start the  App</h3>
   <p>node index.js</p>
 
-<p>API Endpoints</p>
+<h3>API Endpoints</h3>
 <ul>
   <li>[GET] localhost:8000/files --> Display a list of all uploaded files</li>
   <li>[POST] localhost:8000/files/new --> To upload a file</li>
